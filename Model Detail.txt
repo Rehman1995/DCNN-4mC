@@ -1,0 +1,6 @@
+Modelv1 == C.elegans, D. melanogaster, A. thaliana, G. subterraneus, F.Vesca
+
+
+Modelv2 == E. coli, G. pickeringii, Mus Musculus, S.cerevisiae, Tolypocladium sp SUP5-1, R.chinensis
+
+Model v3 == C.equisetifolia
