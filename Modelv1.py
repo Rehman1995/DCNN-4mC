@@ -3,7 +3,7 @@ from tensorflow.keras.layers.experimental import RandomFourierFeatures
 from tensorflow.keras.losses import poisson
 
 from tensorflow.keras import Model
-from tensorflow.keras.optimizers import SGD
+from tensorflow.keras.optimizers import SGD 
 import tensorflow as tf
 import keras
 from keras.regularizers import l2 
