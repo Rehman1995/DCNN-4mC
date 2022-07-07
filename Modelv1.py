@@ -7,7 +7,7 @@ from tensorflow.keras.optimizers import SGD
 import tensorflow as tf
 import keras
 from keras.regularizers import l2 
-import numpy as np 
+import numpy as np  
 
  
 
